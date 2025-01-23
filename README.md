@@ -1,2 +1,2 @@
-# leetcode-Top-150-queestions
+# DSA
 https://leetcode.com/studyplan/top-interview-150/ 
