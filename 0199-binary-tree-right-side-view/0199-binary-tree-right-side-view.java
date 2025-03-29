@@ -15,7 +15,6 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-       
         List<Integer> result = new ArrayList<>();
         if(root==null) return result;
 
@@ -32,15 +31,13 @@ class Solution {
 
                // Add left child first, then right (for correct BFS order)
                 if (currentNode.left != null) {
-                    queue.offer(currentNode.left);
+                    queue.add(currentNode.left);
                 }
                 if (currentNode.right != null) {
-                    queue.offer(currentNode.right);
+                    queue.add(currentNode.right);
                 }
-
             }            
             result.add(rightmostValue); // Add the rightmost node of this level
-
         }
         return result;
     }
