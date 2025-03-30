@@ -29,7 +29,6 @@ class Solution {
 
             for(int i=0;i<size;i++){
                 TreeNode node;
-
                 if(leftToRight){
                     node = queue.pollFirst();
                     if(node.left!=null) queue.addLast(node.left);
@@ -40,7 +39,6 @@ class Solution {
                     if(node.left != null) queue.addFirst(node.left);
                 }
                  levelNodes.add(node.val);
-
             }
              leftToRight = leftToRight == false ? true : false;
             output.add(levelNodes);
