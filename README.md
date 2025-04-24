@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0200-number-of-islands](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0207-course-schedule) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0945-snakes-and-ladders) |
 ## Binary Tree
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0130-surrounded-regions](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0200-number-of-islands) |
+| [0945-snakes-and-ladders](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0945-snakes-and-ladders) |
 ## Union Find
 |  |
 | ------- |
@@ -57,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0130-surrounded-regions](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0200-number-of-islands) |
+| [0945-snakes-and-ladders](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0945-snakes-and-ladders) |
 ## Hash Table
 |  |
 | ------- |
