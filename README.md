@@ -73,4 +73,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
