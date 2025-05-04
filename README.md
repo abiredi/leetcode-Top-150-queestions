@@ -78,6 +78,11 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0172-factorial-trailing-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
