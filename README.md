@@ -80,9 +80,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0009-palindrome-number](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0172-factorial-trailing-zeroes) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
