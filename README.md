@@ -46,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0130-surrounded-regions) |
@@ -100,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
