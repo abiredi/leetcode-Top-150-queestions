@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0200-number-of-islands) |
@@ -96,4 +97,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
