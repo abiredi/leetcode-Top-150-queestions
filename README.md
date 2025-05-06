@@ -52,6 +52,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0945-snakes-and-ladders) |
@@ -70,6 +71,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0169-majority-element) |
 ## Graph
 |  |
 | ------- |
@@ -111,4 +113,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
