@@ -19,8 +19,9 @@ class Solution {
             count=1;
         }
         nums[j] = nums[i];
+          
+            i++;  
             j++;
-            i++;
        }
         return j;
     }
