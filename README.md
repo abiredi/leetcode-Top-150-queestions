@@ -55,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0200-number-of-islands) |
+| [0605-can-place-flowers](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0605-can-place-flowers) |
 | [0945-snakes-and-ladders](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0945-snakes-and-ladders) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Union Find
@@ -123,4 +124,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
