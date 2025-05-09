@@ -103,6 +103,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0070-climbing-stairs](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0151-reverse-words-in-a-string](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
