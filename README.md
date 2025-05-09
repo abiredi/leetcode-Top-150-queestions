@@ -56,6 +56,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0198-house-robber](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0605-can-place-flowers) |
 | [0945-snakes-and-ladders](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0945-snakes-and-ladders) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -130,6 +131,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0605-can-place-flowers) |
 ## String
 |  |
