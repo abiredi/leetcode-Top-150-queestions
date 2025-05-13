@@ -61,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0605-can-place-flowers](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0643-maximum-average-subarray-i) |
 | [0945-snakes-and-ladders](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0945-snakes-and-ladders) |
+| [1046-max-consecutive-ones-iii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Union Find
 |  |
@@ -149,9 +150,15 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
