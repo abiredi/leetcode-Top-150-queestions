@@ -157,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0345-reverse-vowels-of-a-string](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0392-is-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2470-removing-stars-from-a-string](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,4 +180,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
