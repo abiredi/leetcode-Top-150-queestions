@@ -63,6 +63,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0724-find-pivot-index](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0724-find-pivot-index) |
 | [0945-snakes-and-ladders](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1046-max-consecutive-ones-iii) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1833-find-the-highest-altitude) |
@@ -82,6 +83,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0133-clone-graph](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0169-majority-element) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Graph
 |  |
 | ------- |
