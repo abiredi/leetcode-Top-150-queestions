@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1833-find-the-highest-altitude) |
+| [2428-equal-row-and-column-pairs](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2428-equal-row-and-column-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0130-surrounded-regions](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0945-snakes-and-ladders) |
+| [2428-equal-row-and-column-pairs](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0169-majority-element) |
 | [1319-unique-number-of-occurrences](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2428-equal-row-and-column-pairs](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2428-equal-row-and-column-pairs) |
 ## Graph
 |  |
 | ------- |
@@ -172,4 +175,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1046-max-consecutive-ones-iii) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
