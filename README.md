@@ -133,6 +133,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0345-reverse-vowels-of-a-string](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0392-is-subsequence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -185,10 +186,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
