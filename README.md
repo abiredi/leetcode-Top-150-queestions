@@ -189,5 +189,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
