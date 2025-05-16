@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0104-maximum-depth-of-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0200-number-of-islands](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0207-course-schedule) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -40,6 +42,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0207-course-schedule](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0207-course-schedule) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0945-snakes-and-ladders) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -47,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0104-maximum-depth-of-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Array
 |  |
 | ------- |
