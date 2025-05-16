@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0199-binary-tree-right-side-view](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -31,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0207-course-schedule](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0207-course-schedule) |
 | [0437-path-sum-iii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -53,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0199-binary-tree-right-side-view](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Array
 |  |
@@ -127,6 +130,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0070-climbing-stairs](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0392-is-subsequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
