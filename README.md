@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0102-binary-tree-level-order-traversal](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -30,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0199-binary-tree-right-side-view](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0207-course-schedule) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -53,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0102-binary-tree-level-order-traversal](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abiredi/leetcode-Top-150-queestions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
