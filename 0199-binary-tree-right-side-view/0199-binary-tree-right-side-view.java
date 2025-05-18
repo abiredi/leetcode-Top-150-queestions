@@ -13,31 +13,37 @@
  *     }
  * }
  */
+ public class TreeNode{
+    int val;
+    TreeNode left;
+    TreeNode right;
+    TreeNode(int x) {
+        val =x;
+    }
+ }
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
+        
         List<Integer> result = new ArrayList<>();
-        if(root==null) return result;
+        if(root == null) return result;
 
         Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
+        queue.offer(root);
 
         while(!queue.isEmpty()){
             int levelSize = queue.size();
-            int rightmostValue = 0;
 
-            for(int i=0; i<levelSize;i++){
-                TreeNode currentNode = queue.poll();
-                rightmostValue = currentNode.val; //update to the current node
+            for(int i=0; i<levelSize; i++){
+                TreeNode node = queue.poll();
 
-               // Add left child first, then right (for correct BFS order)
-                if (currentNode.left != null) {
-                    queue.add(currentNode.left);
+                if(i==levelSize-1){
+                    result.add(node.val);
                 }
-                if (currentNode.right != null) {
-                    queue.add(currentNode.right);
-                }
-            }            
-            result.add(rightmostValue); // Add the rightmost node of this level
+                //add chi;detern to the queue for next level
+                if(node.left !=null) queue.offer(node.left);
+                if(node.right!=null) queue.offer(node.right);
+
+            }
         }
         return result;
     }
